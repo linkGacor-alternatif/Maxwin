@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://linkgacor-alternatif.github.io/sitemap.xml
+Sitemap: https://linkgacor-alternatif.github.io/Maxwin/sitemap.xml
